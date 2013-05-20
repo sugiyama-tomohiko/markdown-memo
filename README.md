@@ -1,4 +1,4 @@
-* [toP][30]
+<a name ="top"> top
 
 ###GFM (Git Flavored Markdown) memo
 
@@ -23,8 +23,8 @@
 * [https://help.github.com/articles/github-flavored-markdown][13]
 * [http://daringfireball.net/projects/markdown/syntax][14]
 
-<a name ="top"> top
 
+* [toP][30]
 
 
 [30]: https://github.com/non3/markdown-memo/blob/master/README.md#30 "TOP"
