@@ -372,7 +372,7 @@ blockquote要素として扱われます。"
 
 [top][30] ←(ここをクリックすると\<a name ="top">Top Page へ飛ぶ)
 
-[30]: https://github.com/non3/markdown-memo/blob/master/README.md#30 "TOP"
+[30]: https://github.com/non3/markdown-memo/blob/master/README.md#top "TOP"
 
 ####画像リンク
 
