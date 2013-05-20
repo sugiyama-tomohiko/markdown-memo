@@ -350,6 +350,9 @@ blockquote要素として扱われます。"
 
 ####ページ内リンク
 
+見出しなどにも目印をつけることができる。  
+(例) #<a name ="midashi">見出し1
+
 **code**
 
     <a name ="top">Top Page
