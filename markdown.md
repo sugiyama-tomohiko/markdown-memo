@@ -31,8 +31,6 @@
 ブドウ  
 バナナ
 
-##<a name="mypotision1">mypotision1
-
 ##<a name="3">テキストの強調
 
 **code**
@@ -368,10 +366,11 @@ blockquote要素として扱われます。"
 
 **表示**
 
+##<a name="mypotision1">mypotision1
 
 〜略〜
 
-[mypotision1](#mysection1) ←(ここをクリックすると\<a name ="top1">Top Page へ飛ぶ)
+[mypotision1](#<mysection1>) ←(ここをクリックすると\<a name ="top1">Top Page へ飛ぶ)
 
 [mypotision1]: https://github.com/non3/markdown-memo/blob/master/README.md#mypotision1 "TOP"
 
