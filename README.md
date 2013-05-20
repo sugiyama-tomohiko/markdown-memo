@@ -5,6 +5,7 @@
 * [段落][1]
 * [改行][2]
 * [テキストの強調][3]
+##<a name="60">Target Pos 1
 * [コード][4]
 * [シンタックスハイライト][5]
 * [リスト][6]
@@ -20,7 +21,6 @@
 * [https://help.github.com/articles/github-flavored-markdown][13]
 * [http://daringfireball.net/projects/markdown/syntax][14]
 
-##<a name="60">Target Pos 1
 
 
 [1]: https://github.com/non3/markdown-memo/blob/master/markdown.md#1 "段落"
