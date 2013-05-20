@@ -372,7 +372,6 @@ blockquote要素として扱われます。"
 
 [mypotision1][30] ←(ここをクリックすると\<a name ="top1">Top Page へ飛ぶ)
 
-[30]: https://github.com/non3/markdown-memo/blob/master/README.md#mypotision1 "TOP"
 
 ####画像リンク
 
@@ -456,3 +455,6 @@ blockquote要素として扱われます。"
         <td>30</td>
     </tr>
 </table>
+
+[30]: https://github.com/non3/markdown-memo/blob/master/README.md#mypotision1 "TOP"
+
