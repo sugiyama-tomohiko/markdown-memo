@@ -366,13 +366,13 @@ blockquote要素として扱われます。"
 
 **表示**
 
-##<a name="top">Top Page
+##<a name="top1">Top Page
 
 〜略〜
 
 [top][30] ←(ここをクリックすると\<a name ="top">Top Page へ飛ぶ)
 
-[30]: https://github.com/non3/markdown-memo/blob/master/README.md#top "TOP"
+[30]: https://github.com/non3/markdown-memo/blob/master/README.md#top1 "TOP"
 
 ####画像リンク
 
