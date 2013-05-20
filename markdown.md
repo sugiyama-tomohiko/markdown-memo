@@ -31,6 +31,8 @@
 ブドウ  
 バナナ
 
+##<a name="mypotision1">mypotision1
+
 ##<a name="3">テキストの強調
 
 **code**
@@ -366,7 +368,6 @@ blockquote要素として扱われます。"
 
 **表示**
 
-##<a name="mypotision1">mypotision1
 
 〜略〜
 
