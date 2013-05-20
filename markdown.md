@@ -366,13 +366,13 @@ blockquote要素として扱われます。"
 
 **表示**
 
-##<a name="mypotision1">mypotision1
+##<a name="99">mypotision1
 
 〜略〜
+* kjlj  
+[99](#99) ←(ここをクリックすると\<a name ="top1">Top Page へ飛ぶ)
 
-[mypotision1](#<mysection1>) ←(ここをクリックすると\<a name ="top1">Top Page へ飛ぶ)
-
-[mypotision1]: https://github.com/non3/markdown-memo/blob/master/README.md#mypotision1 "TOP"
+[99]: https://github.com/non3/markdown-memo/blob/master/makedown.md#99 "TOP"
 
 ####画像リンク
 
