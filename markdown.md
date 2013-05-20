@@ -352,13 +352,13 @@ blockquote要素として扱われます。"
 
 **code**
 
-<a name ="top">Top Page
-
-〜略〜
-
-[top][30]
-
-[30]: https://github.com/non3/markdown-memo/blob/master/README.md#30 "TOP"
+    <a name ="top">Top Page
+    
+    〜略〜
+    
+    [top][30]
+    
+    [30]: https://github.com/non3/markdown-memo/blob/master/README.md#30 "TOP"
 
 **表示**
 
@@ -366,7 +366,7 @@ blockquote要素として扱われます。"
 
 〜略〜
 
-[top][30]
+[top][30] ←(ここをクリックすると<a name ="top">Top Page へ飛ぶ)
 
 [30]: https://github.com/non3/markdown-memo/blob/master/README.md#30 "TOP"
 
