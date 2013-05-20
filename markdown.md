@@ -370,7 +370,7 @@ blockquote要素として扱われます。"
 
 〜略〜
 
-[Go mypotision][30] ←(ここをクリックすると\<a name ="top1">Top Page へ飛ぶ)
+[mypotision1][30] ←(ここをクリックすると\<a name ="top1">Top Page へ飛ぶ)
 
 [30]: https://github.com/non3/markdown-memo/blob/master/README.md#mypotision1 "TOP"
 
