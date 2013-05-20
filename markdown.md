@@ -373,10 +373,7 @@ blockquote要素として扱われます。"
 [Go Pos1](#pos1) ←(ここをクリックすると\<a name ="top1">Top Page へ飛ぶ)  
 
 [Go README][60] ←(ここをクリックすると\<a name ="top1">Top Page へ飛ぶ)
-[Go README](60) ←(ここをクリックすると\<a name ="top1">Top Page へ飛ぶ)
 
-[pos1]: https://github.com/non3/markdown-memo/blob/master/makedown.md#pos1 "TOP"
-[60]: https://github.com/non3/markdown-memo/blob/master/README.md#60 "TOP"
 
 ####画像リンク
 
@@ -462,3 +459,5 @@ blockquote要素として扱われます。"
 </table>
 
 
+[pos1]: https://github.com/non3/markdown-memo/blob/master/makedown.md#pos1 "TOP"
+[60]: https://github.com/non3/markdown-memo/blob/master/README.md#60 "TOP"
