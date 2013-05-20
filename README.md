@@ -1,9 +1,6 @@
-<a name ="30"> top
-
 ###GFM (Git Flavored Markdown) memo
 
 **start 2013/05/19**
-
 
 * [段落][1]
 * [改行][2]
@@ -24,7 +21,6 @@
 * [http://daringfireball.net/projects/markdown/syntax][14]
 
 
-* [toP][30]
 
 
 [30]: https://github.com/non3/markdown-memo/blob/master/README.md#30 "TOP"

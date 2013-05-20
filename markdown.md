@@ -348,6 +348,28 @@ blockquote要素として扱われます。"
 「グーグル →  [Google][1]」
 [1]: http://www.google.co.jp "link title Google"
 
+####ページ内リンク
+
+**code**
+
+<a name ="top">Top Page
+
+〜略〜
+
+[top][30]
+
+[30]: https://github.com/non3/markdown-memo/blob/master/README.md#30 "TOP"
+
+**表示**
+
+<a name ="top">Top Page
+
+〜略〜
+
+[top][30]
+
+[30]: https://github.com/non3/markdown-memo/blob/master/README.md#30 "TOP"
+
 ####画像リンク
 
 \![画像の説明][id]
