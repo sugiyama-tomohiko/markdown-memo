@@ -366,7 +366,8 @@ blockquote要素として扱われます。"
 
 **表示**
 
-##<a name="pos1">Target Pos 1
+##<a name="pos1">pos1
+Target Pos 1
 
 〜略〜
 
