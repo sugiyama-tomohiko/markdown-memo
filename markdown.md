@@ -366,12 +366,13 @@ blockquote要素として扱われます。"
 
 **表示**
 
-##<a name="mypotision1">Top Page
+##<a name="mypotision1">mypotision1
 
 〜略〜
 
 [mypotision1][30] ←(ここをクリックすると\<a name ="top1">Top Page へ飛ぶ)
 
+[30]: https://github.com/non3/markdown-memo/blob/master/README.md#mypotision1 "TOP"
 
 ####画像リンク
 
@@ -456,5 +457,4 @@ blockquote要素として扱われます。"
     </tr>
 </table>
 
-[30]: https://github.com/non3/markdown-memo/blob/master/README.md#mypotision1 "TOP"
 
