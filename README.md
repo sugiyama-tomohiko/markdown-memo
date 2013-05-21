@@ -33,52 +33,7 @@
 [10]: https://github.com/non3/markdown-memo/blob/master/markdown.md#10 "水平線"
 [11]: https://github.com/non3/markdown-memo/blob/master/markdown.md#11 "テーブル"
 
-```
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-```
-
 [12]: http://ja.wikipedia.org/wiki/Markdown "wiki markdown"
 [13]: https://help.github.com/articles/github-flavored-markdown "github-flavored-markdown"
 [14]: http://daringfireball.net/projects/markdown/syntax "Markdown Syntax Documentation"
+
