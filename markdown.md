@@ -374,11 +374,11 @@ blockquote要素として扱われます。"
 
 [Go Target Pos1](#pos1) ←(ここをクリックすると##\<a name =pos1">Target Pos1 へ飛ぶ)  
 
-[Go README.md リンク][りんく] ←(ここをクリックするとREADME.mdのリンク へ飛ぶ)
+[Go README.md リンク][9] ←(ここをクリックするとREADME.mdのリンク へ飛ぶ)
 
 ↓これはテキストの最後におく
 [pos1]: https://github.com/non3/markdown-memo/blob/master/makedown.md#pos1 "pos1へのリンク"
-[60]: https://github.com/non3/markdown-memo/blob/master/README.md#60 "README.mdのリンクへのリンク"
+[60]: https://github.com/non3/markdown-memo/blob/master/README.md#9 "README.mdのリンクへのリンク"
 
 ####画像リンク
 
