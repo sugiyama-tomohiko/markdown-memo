@@ -356,31 +356,29 @@ blockquote要素として扱われます。"
 
 **code**
 
-    <a name ="mypotision1">Top Page
+    <a name ="pos1">Target Pos1
     
     〜略〜
     
-    [top][30]
+    [Go Target Pos1](#pos1) ←(ここをクリックすると##\<a name =pos1">Target Pos1 へ飛ぶ)  
     
-    [30]: https://github.com/non3/markdown-memo/blob/master/README.md#mypotision1 "TOP"
-
     [pos1]: https://github.com/non3/markdown-memo/blob/master/makedown.md#pos1 "TOP"
 
 **表示**
 
-##<a name="pos1">Target Pos1
+<a name="pos1">Target Pos1
 
 〜略〜
 
 [Go Target Pos1](#pos1) ←(ここをクリックすると##\<a name =pos1">Target Pos1 へ飛ぶ)  
 
-[Go README.md リンク][9] ←(ここをクリックするとREADME.mdのリンク へ飛ぶ)
 
 ↓これはテキストの最後におく
 
 [pos1]: https://github.com/non3/markdown-memo/blob/master/makedown.md#pos1 "pos1へのリンク"
-/[][9]: https://github.com/non3/markdown-memo/blob/master/README.md#9 "README.mdのリンクへのリンク"
 
+[Go README.md リンク][9] ←(ここをクリックするとREADME.mdのリンク へ飛ぶ)
+[9]: https://github.com/non3/markdown-memo/blob/master/README.md#9 "README.mdのリンクへのリンク"
 ####画像リンク
 
 \![画像の説明][id]
