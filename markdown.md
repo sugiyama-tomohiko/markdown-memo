@@ -348,6 +348,8 @@ blockquote要素として扱われます。"
 「グーグル →  [Google][1]」
 [1]: http://www.google.co.jp "link title Google"
 
+- - -
+
 ####ページ内リンク
 
 ページ内の好きな場所や特定の文字にアンカー名(目印)をつける。  
@@ -374,6 +376,8 @@ blockquote要素として扱われます。"
 
 [pos1]: https://github.com/non3/markdown-memo/blob/master/makedown.md#pos1 "pos1へのリンク"
 
+- - -
+
 ####他ページのページ内リンクへ飛ぶ
 
 **code**
@@ -393,6 +397,8 @@ blockquote要素として扱われます。"
 [Go README.md リンク][linkpos1]←(ここをクリックするとREADME.mdのリンク へ飛ぶ)
 
 [linkpos1]: https://github.com/non3/markdown-memo/blob/master/README.md#linkpos1 "README.mdのリンクへのリンク"
+
+- - -
 
 ####画像リンク
 
