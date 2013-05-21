@@ -377,11 +377,12 @@ blockquote要素として扱われます。"
 ####他ページのページ内リンクへ飛ぶ
 
 **code**
-    README.md
+
+    README.md ↓↓
 
     \* <a name="linkpos1">リンク
 
-    markdown.md
+    markdown.md ↓↓
 
     [Go README.md リンク][linkpos1]←(ここをクリックするとREADME.mdのリンク へ飛ぶ)
 
