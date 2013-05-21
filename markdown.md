@@ -378,8 +378,8 @@ blockquote要素として扱われます。"
 
 **code**
 
-[Go README.md リンク][Link Pos]←(ここをクリックするとREADME.mdのリンク へ飛ぶ)
-[Link Pos]: https://github.com/non3/markdown-memo/blob/master/README.md#9 "README.mdのリンクへのリンク"
+[Go README.md リンク][linkpos1]←(ここをクリックするとREADME.mdのリンク へ飛ぶ)
+[linkpos1]: https://github.com/non3/markdown-memo/blob/master/README.md#linkpos1 "README.mdのリンクへのリンク"
 ####画像リンク
 
 \![画像の説明][id]
