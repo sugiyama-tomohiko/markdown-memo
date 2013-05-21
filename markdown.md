@@ -362,7 +362,7 @@ blockquote要素として扱われます。"
     
     [Go Target Pos1](#pos1) ←(ここをクリックすると##\<a name =pos1">Target Pos1 へ飛ぶ)  
     
-    [pos1]: https://github.com/non3/markdown-memo/blob/master/makedown.md#pos1 "TOP"
+    [pos1]: https://github.com/non3/markdown-memo/blob/master/makedown.md#pos1 "pos1へのリンク"
 
 **表示**
 
@@ -370,15 +370,16 @@ blockquote要素として扱われます。"
 
 〜略〜
 
-[Go Target Pos1](#pos1) ←(ここをクリックすると##\<a name =pos1">Target Pos1 へ飛ぶ)  
-
-
-↓これはテキストの最後におく
+[Go Target Pos1](#pos1) ←(ここをクリックすると\<a name =pos1">Target Pos1 へ飛ぶ)  
 
 [pos1]: https://github.com/non3/markdown-memo/blob/master/makedown.md#pos1 "pos1へのリンク"
 
-[Go README.md リンク][9] ←(ここをクリックするとREADME.mdのリンク へ飛ぶ)
-[9]: https://github.com/non3/markdown-memo/blob/master/README.md#9 "README.mdのリンクへのリンク"
+####他ページのページ内リンクへ飛ぶ
+
+**code**
+
+[Go README.md リンク][Link Pos]←(ここをクリックするとREADME.mdのリンク へ飛ぶ)
+[Link Pos]: https://github.com/non3/markdown-memo/blob/master/README.md#9 "README.mdのリンクへのリンク"
 ####画像リンク
 
 \![画像の説明][id]
