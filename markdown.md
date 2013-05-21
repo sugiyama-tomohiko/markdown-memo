@@ -380,7 +380,7 @@ blockquote要素として扱われます。"
 
     README.md ↓↓
 
-    \* <a name="linkpos1">リンク
+    * <a name="linkpos1">リンク
 
     markdown.md ↓↓
 
