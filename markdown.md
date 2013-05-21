@@ -379,7 +379,7 @@ blockquote要素として扱われます。"
 ↓これはテキストの最後におく
 
 [pos1]: https://github.com/non3/markdown-memo/blob/master/makedown.md#pos1 "pos1へのリンク"
-[9]: https://github.com/non3/markdown-memo/blob/master/README.md#9 "README.mdのリンクへのリンク"
+/[][9]: https://github.com/non3/markdown-memo/blob/master/README.md#9 "README.mdのリンクへのリンク"
 
 ####画像リンク
 
