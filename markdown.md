@@ -377,8 +377,6 @@ blockquote要素として扱われます。"
 [Go README.md リンク][#9] ←(ここをクリックするとREADME.mdのリンク へ飛ぶ)
 
 ↓これはテキストの最後におく
-[pos1]: https://github.com/non3/markdown-memo/blob/master/makedown.md#pos1 "pos1へのリンク"
-[9]: https://github.com/non3/markdown-memo/blob/master/README.md#9 "README.mdのリンクへのリンク"
 
 ####画像リンク
 
@@ -464,3 +462,5 @@ blockquote要素として扱われます。"
 </table>
 
 
+[pos1]: https://github.com/non3/markdown-memo/blob/master/makedown.md#pos1 "pos1へのリンク"
+[9]: https://github.com/non3/markdown-memo/blob/master/README.md#9 "README.mdのリンクへのリンク"
