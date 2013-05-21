@@ -374,7 +374,7 @@ blockquote要素として扱われます。"
 
 [Go Target Pos1](#pos1) ←(ここをクリックすると##\<a name =pos1">Target Pos1 へ飛ぶ)  
 
-[Go README.md リンク][#9] ←(ここをクリックするとREADME.mdのリンク へ飛ぶ)
+[Go README.md リンク][9] ←(ここをクリックするとREADME.mdのリンク へ飛ぶ)
 
 ↓これはテキストの最後におく
 
