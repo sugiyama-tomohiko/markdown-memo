@@ -24,7 +24,6 @@
 * [http://daringfireball.net/projects/markdown/syntax][14]
 
 
-
 [1]: https://github.com/non3/markdown-memo/blob/master/markdown.md#1 "段落"
 [2]: https://github.com/non3/markdown-memo/blob/master/markdown.md#2 "改行"
 [3]: https://github.com/non3/markdown-memo/blob/master/markdown.md#3 "テキストの強調"
