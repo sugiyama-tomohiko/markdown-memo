@@ -427,14 +427,14 @@ blockquote要素として扱われます。"
 
 **code**
 
-    ![ファイヤーフォックス][Firefox]
+    ![Firefox]
     [Firefox]: http://getfirefox.jp/b/120x90_1_white  "ファイヤーフォックス"
 
     ![]: http://getfirefox.jp/b/120x90_1_white  "ファイヤーフォックス"
 
 **表示**
 
-![ファイヤーフォックス][Firefox]
+![Firefox]
 [Firefox]: http://getfirefox.jp/b/120x90_1_white  "ファイヤーフォックス"
 
 ![]: (http://getfirefox.jp/b/120x90_1_white  "ファイヤーフォックス")
