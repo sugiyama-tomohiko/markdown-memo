@@ -429,6 +429,7 @@ blockquote要素として扱われます。"
 
     ![ファイヤーフォックス][Firefox]
     [Firefox]: http://getfirefox.jp/b/120x90_1_white  "ファイヤーフォックス"
+
     ![]: http://getfirefox.jp/b/120x90_1_white  "ファイヤーフォックス"
 
 **表示**
@@ -436,7 +437,7 @@ blockquote要素として扱われます。"
 ![ファイヤーフォックス][Firefox]
 [Firefox]: http://getfirefox.jp/b/120x90_1_white  "ファイヤーフォックス"
 
-![]: http://getfirefox.jp/b/120x90_1_white  "ファイヤーフォックス"
+![]: (http://getfirefox.jp/b/120x90_1_white  "ファイヤーフォックス")
 
 ##<a name="10">水平線
 1行の中に、3つ以上のハイフンやアスタリスク・アンダースコアだけを並べると水平線が作られる。
