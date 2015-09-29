@@ -13,6 +13,7 @@
 * <a name="linkpos1">[リンク][9]
 * [水平線][10]
 * [テーブル][11]
+* [取り消し線][15]
 
 **参考URL**
 
@@ -32,6 +33,7 @@
 [9]: https://github.com/non3/markdown-memo/blob/master/markdown.md#9 "リンク"
 [10]: https://github.com/non3/markdown-memo/blob/master/markdown.md#10 "水平線"
 [11]: https://github.com/non3/markdown-memo/blob/master/markdown.md#11 "テーブル"
+[15]: https://github.com/non3/markdown-memo/blob/master/markdown.md#15 "取り消し線"
 
 [12]: http://ja.wikipedia.org/wiki/Markdown "wiki markdown"
 [13]: https://help.github.com/articles/github-flavored-markdown "github-flavored-markdown"
