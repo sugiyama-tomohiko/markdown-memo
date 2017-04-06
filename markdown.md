@@ -360,11 +360,13 @@ blockquote要素として扱われます。"
 **code**
 
     「グーグル →  [Google][1]」
+    
     [1]: http://www.google.co.jp "link title Google"
 
 **表示**
 
 「グーグル →  [Google][1]」
+
 [1]: http://www.google.co.jp "link title Google"
 
 - - -
