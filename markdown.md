@@ -430,11 +430,13 @@ blockquote要素として扱われます。"
 **code**
 
     ![Firefox]
+    
     [Firefox]: http://getfirefox.jp/b/120x90_1_white  "ファイヤーフォックス"
 
 **表示**
 
 ![Firefox]
+
 [Firefox]: http://getfirefox.jp/b/120x90_1_white  "ファイヤーフォックス"
 
 ##<a name="10">水平線
